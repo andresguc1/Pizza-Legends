@@ -6,6 +6,6 @@ class Overworld {
     }
 
     init(){
-        console.log("Overworld.js loaded");
+        console.log("Overworld.js loaded", this);
     }
 }
